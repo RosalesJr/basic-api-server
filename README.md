@@ -2,7 +2,7 @@
 
 ## Author: Luis Rosales
 
-[Prod Deployed Server](https://rosales-basic-express-server.herokuapp.com/)
+[Prod Deployed Server](https://rosales-basic-api-server.herokuapp.com/)
 ## Problem Domain
 
 A basic api server inteded to practice server modularization, use of middleware, routes, CRUD, writing tests and overall best practices.
